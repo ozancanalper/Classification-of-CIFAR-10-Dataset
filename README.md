@@ -10,9 +10,9 @@
    - 4.2 Artificial Neural Network
    - 4.3 Classification
    - 4.4 Deep Learning-Convolutional Neural Network
-         - 4.4.1 Hyperparameter 
+   - 4.4.1 Hyperparameter 
    - 4.5 Transfer Learning
-         - 4.5.1 VGG-16
+   - 4.5.1 VGG-16
 - 5 Evaluation Metrics
    - 5.1 Accuracy
    - 5.2 Precision
@@ -22,9 +22,9 @@
 - 6 Applications & Results
    - 6.1 Transfer Learning Model (VGG-16)
    - 6.2 CNN Structure (Kernel=3x3)
-         - 6.2.1 Number of Epoch (40)
-         - 6.2.2 Number of Epoch (10)
+   - 6.2.1 Number of Epoch (40)
+   - 6.2.2 Number of Epoch (10)
    - 6.3 CNN Structure (Kernel=5x5)
-         - 6.3.1 Number of Epoch (40)
-         - 6.3.2 Number of Epoch (10)
+   - 6.3.1 Number of Epoch (40)
+   - 6.3.2 Number of Epoch (10)
 - 7 Conclusion
